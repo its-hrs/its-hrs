@@ -55,9 +55,7 @@
 ---
 <h3>Languages Used:</h3>
 <p align="center">
-<a href="https://github.com/its-hrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
  </p>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
