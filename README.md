@@ -2,7 +2,7 @@
 <h3 align="center">I'm a (NYCTO + ASTRO)Phile 💫</h3>
 <h1 align="center">Yeh Dil❤️ Maange More 💯</h1>
 <p align="left"> <a href="https://github.com/its-hrs"> <img src="https://komarev.com/ghpvc/?username=its-hrs" alt="its-hrs" /> </a>
-<a href="https://twitter.com/Saxenaboy_123" target="_blank"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
+<a href="https://twitter.com/Saxenaboy_123"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
 </p>
 
 - 🔭 Have look at my Portfolio: <a href="https://its-hrs.github.io/Portfolio/">Lets go!</a>
