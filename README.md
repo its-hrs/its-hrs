@@ -56,10 +56,13 @@
 <h3>Languages Used:</h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
- </p>
-<img align="center" alt="cat" src="./img/cat.png" width="300" height="300" />
+</p>
 
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+<br />
+<img align="right" alt="cat" src="./readimg/cat.png" width="300" height="300" />
+
+<br /><br /><br />
+<h3>Show some ❤️ by starring some of the repositories!</h3>
 <!---
 its-hrs/its-hrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
