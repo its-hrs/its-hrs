@@ -57,6 +57,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
  </p>
+<img align="center" alt="cat" src="./img/cat.png" width="300" height="300" />
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 <!---
