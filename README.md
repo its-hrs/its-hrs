@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with other content creators
  
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source Projects
  
 - ⚡ Fun fact: I love to watch **Harry Potter**, Always.
 
