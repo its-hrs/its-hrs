@@ -58,16 +58,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
 </p>
 
-<br />
-<img align="right" alt="cat" src="./readimg/cat.png" width="300" height="300" />
-
-<br /><br /><br />
-
 <h3>Badges:</h3>
 <p align="center">
 <img align="center" src="https://holopin.io/api/user/board?user=its_hrs" />
 </p>
 <br /><br />
+
+<br />
+<img align="right" alt="cat" src="./readimg/cat.png" width="300" height="300" />
+
+<br /><br /><br />
+
 
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 <!---
