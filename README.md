@@ -62,6 +62,13 @@
 <img align="right" alt="cat" src="./readimg/cat.png" width="300" height="300" />
 
 <br /><br /><br />
+
+<h3>Badges:</h3>
+<p align="center">
+<img align="center" src="https://holopin.io/api/user/board?user=its_hrs" />
+</p>
+<br /><br />
+
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 <!---
 its-hrs/its-hrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
