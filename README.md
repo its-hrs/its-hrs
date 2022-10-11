@@ -58,7 +58,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-hrs&layout=compact&theme=light&hide_langs_below=1" />
 </p>
 
-<h3>Badges:</h3>
+<h3><b>HACKTOBERFEST-2022:</b></h3>
 <p align="center">
 <img align="center" src="https://holopin.io/api/user/board?user=its_hrs" />
 </p>
