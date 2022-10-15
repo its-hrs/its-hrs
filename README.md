@@ -2,7 +2,7 @@
 <h3 align="center">I'm a (NYCTO + ASTRO)Phile 💫</h3>
 <h1 align="center">Yeh Dil❤️ Maange More 💯</h1>
 <p align="left"> <a href="https://github.com/its-hrs"> <img src="https://komarev.com/ghpvc/?username=its-hrs" alt="its-hrs" /> </a>
-<a href="https://twitter.com/its_hrs_"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
+<a href="https://twitter.com/its_hrs_" target="_blank"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
 </p>
 
 - 🔭 Have look at my Portfolio: <a href="https://its-hrs.tech" target="_blank">Lets go!</a>
@@ -18,11 +18,11 @@
 ---
 <h3>Connect with me:</h3>
 
-<a href="https://www.facebook.com/PotterHead9347"><img align="left" alt="fb" width="22px" src="https://simpleicons.org/icons/facebook.svg" /></a>
+<a href="https://www.facebook.com/PotterHead9347" target="_blank"><img align="left" alt="fb" width="22px" src="https://simpleicons.org/icons/facebook.svg" /></a>
 <a href="mailto:@harsh27725@gmail.com"><img align="left" alt="harsh27725" width="22px" src="https://simpleicons.org/icons/gmail.svg" /></a>
-<a href="https://twitter.com/its_hrs_"><img align="left" alt="its-hrs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/harsh-saxena-8a9429178/"><img align="left" alt="its-hrs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/its_._hrs/"><img align="left" alt="its-hrs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/its_hrs_" target="_blank"><img align="left" alt="its-hrs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/harsh-saxena-8a9429178/" target="_blank"><img align="left" alt="its-hrs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/its_._hrs/" target="_blank"><img align="left" alt="its-hrs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
