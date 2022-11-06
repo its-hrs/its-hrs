@@ -5,7 +5,7 @@
 <a href="https://twitter.com/its_hrs_" target="_blank"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
 </p>
 
-- 🔭 Have look at my Portfolio: <a href="https://its-hrs.tech" target="_blank">Lets go!</a>
+- 🔭 Have look at my Portfolio: <a href="https://its-hrs.me/harsh/" target="_blank">Lets go!</a>
  
 - 🌱 I’m currently learning everything 🤣
 
