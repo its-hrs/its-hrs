@@ -1,11 +1,11 @@
-<h1 align="center"> Hi There <img src="./readimg/hello.gif" width="35px">, I'm Harsh Saxena - aka <a href="https://github.com/its-hrs">its-hrs</a></h1>
+<h1 align="center"> Hi There👋, I'm Harsh Saxena - aka <a href="https://github.com/its-hrs">its-hrs</a></h1>
 <h3 align="center">I'm a (NYCTO + ASTRO)Phile 💫</h3>
 <h1 align="center">Yeh Dil❤️ Maange More 💯</h1>
 <p align="left"> <a href="https://github.com/its-hrs"> <img src="https://komarev.com/ghpvc/?username=its-hrs" alt="its-hrs" /> </a>
 <a href="https://twitter.com/its_hrs_" target="_blank"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"></a>
 </p>
 
-- 🔭 Have look at my Portfolio: <a href="https://its-hrs.github.io/harsh/" target="_blank">Lets go!</a>
+- 🔭 Have look at my Portfolio: <a href="https://its-hrs.github.io/Portfolio-2.0/" target="_blank">Lets go!</a>
  
 - 🌱 I’m currently learning everything 🤣
 
